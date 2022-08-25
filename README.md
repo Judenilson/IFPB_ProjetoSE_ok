@@ -40,12 +40,11 @@ Todo _Hardware_ apresentado no tópico 6.1 foi construído no aplicativo Fritzzi
 
 ![Visualização do Breadboard](https://github.com/Judenilson/IFPB_ProjetoSE_ok/blob/main/imagens/Projeto%20Controle%20Acesso%20Alunos_bb.png)
 
-
 -   PCB
 
 ![pcb](https://github.com/Judenilson/IFPB_ProjetoSE_ok/blob/main/imagens/Projeto%20Controle%20Acesso%20Alunos_pcb.png)
 
--   Esquema elétrônico
+-   Esquema eletrônico
 
 ![Schematic](https://github.com/Judenilson/IFPB_ProjetoSE_ok/blob/main/imagens/Projeto%20Controle%20Acesso%20Alunos_schem.png)
 
@@ -55,6 +54,6 @@ Todo _Hardware_ apresentado no tópico 6.1 foi construído no aplicativo Fritzzi
 
 ## 8. Diagrama de Bloco
 
-![Processo](https://github.com/Judenilson/IFPB_ProjetoSE_ok/blob/main/imagens/SE%20Diagrama%20de%20Bloco.jpg)
+![Bloco](https://github.com/Judenilson/IFPB_ProjetoSE_ok/blob/main/imagens/SE%20Diagrama%20de%20Bloco.jpg)
 
 ## 9. Resumo dos Resultados
